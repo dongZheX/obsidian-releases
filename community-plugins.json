@@ -73505,5 +73505,12 @@
     "author": "natlee",
     "description": "Edit Markdown notes like a Word document, with a ribbon toolbar, tables, and images. Notes are still saved as clean Markdown. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "natlee/obsidian-word-mode"
+  },
+  {
+    "id": "ai-reader",
+    "name": "AI Reader",
+    "author": "dongzhe05",
+    "description": "AI reading assistant for papers: grounded chat with click-to-source citations, AI highlights written into your notes, an agentic read-and-annotate pass, figure vision, selection explain/translate, and OpenAI/Anthropic APIs.",
+    "repo": "dongZheX/obsidian-ai-reader"
   }
 ]
